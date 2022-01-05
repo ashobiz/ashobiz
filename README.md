@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashok from Madurai.
-- 👀 I’m interested in Freelance React Jobs. 
-- 🌱 I’m currently learning Backend. 
+- 👀 I’m a Full Stack Web Developer. 
+- 🌱 I’m currently working in Publicis Sapient. 
 - 📫 How to reach me at ashobiz [at] google mail 
 
 <!---
