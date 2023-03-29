@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashok from Madurai.
 - 👀 I’m a Full Stack Web Developer. 
-- 🌱 I’m currently working in Publicis Sapient. 
+- 🌱 I’m currently working in Bacancy. 
 - 📫 You can reach me at ashobiz [at] google mail 
 
 <!---
